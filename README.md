@@ -9,9 +9,6 @@ pomocou dodatocnych parametrov.
 
 Spustenie programu ( adresar obsahujuci certifikacne subory musi byt najprv rehashnuty prikazom: "c_rehash <zlozka>" )
   
-1.  make
-  
-2.
   
     obecny priklad spustenia:
   
